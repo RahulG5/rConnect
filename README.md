@@ -1,5 +1,5 @@
 # rConnect
-Python Automation for Remote Devices Accessibility and Functionality
+Automation for Remote Devices Accessibility and Functionality
 
 Specific libraries Used :
 1. pyfiglet
